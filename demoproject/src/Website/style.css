@@ -1,0 +1,39 @@
+body{
+    background-color: antiquewhite;
+    padding : 20px;
+
+}
+
+.header1{
+    background-color: plum;
+    height:25px;
+}
+
+ul{
+    display: inline;
+    list-style-type: none;
+}
+
+li{
+    display:inline;
+    padding : 20px;
+   
+    margin : 10px;
+   
+}
+
+.active{
+    background-color:white;
+}
+
+.content1{
+    background-color: beige;
+}
+
+input{
+    margin: 5px;
+}
+
+h2{
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+#root{
+    color: purple;
+    box-sizing: border-box;
+    background-color: gray;
+    height: 50px;
+    width: 250px;
+    font-size: 15px;
+    text-align: center;
+}
+
+#colors{
+  
+    box-sizing: border-box;
+    background-color: black;
+    height: 50px;
+    width: 250px;
+    font-size: 15px;
+    text-align: center;
+}

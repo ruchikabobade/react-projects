@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "xyz",
+      "username": "xyz001",
+      "email": "xyz@xyz.com"
+    },
+    {
+      "id": 2,
+      "name": "pqr",
+      "username": "pqr002",
+      "email": "pqr@pqr.com"
+    },
+    {
+      "id": 3,
+      "name": "def",
+      "username": "def003",
+      "email": "def@def.com"
+    },
+    {
+      "name": "qwerty",
+      "username": "asdfg",
+      "email": "lkjh@ghjl",
+      "id": 4
+    },
+    {
+      "name": "polo",
+      "username": "polo55",
+      "email": "polo@gmsakdj",
+      "id": 5
+    }
+  ]
+}
